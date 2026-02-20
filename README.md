@@ -7,7 +7,23 @@ The **Student Result Processing System** is a Java-based console application des
 It automates the process of storing, updating, and retrieving student marks, calculating totals, averages, and grades. 
 This project demonstrates **object-oriented programming**, **file handling**, **exception handling**, and **menu-driven programming** in Java.
 
----
+
+
+
+
+
+Student-Result-Processing-System/
+                
+Student.java      # Class representing student data
+Result.java       # Handles result calculation and grading
+Main.java         # Main menu-driven program
+
+data                # Folder containing student record files
+
+README.md             # Project documentation
+
+
+
 
 ## Features
 - Add, edit, and delete student records.
